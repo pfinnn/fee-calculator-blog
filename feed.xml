@@ -3,7 +3,7 @@
     <title>Fee Calculator</title>
     <link href="https://blog.fee-calculator.com/feed.xml" rel="self" />
     <link href="https://blog.fee-calculator.com" />
-    <updated>2023-01-22T20:07:07+01:00</updated>
+    <updated>2023-01-22T20:14:24+01:00</updated>
     <author>
         <name>Finn</name>
     </author>
@@ -16,8 +16,12 @@
         </author>
         <link href="https://blog.fee-calculator.com/fiverr-myths-debunked/"/>
         <id>https://blog.fee-calculator.com/fiverr-myths-debunked/</id>
+            <category term="fiverr myths"/>
+            <category term="fiverr gig"/>
+            <category term="fiverr fees"/>
+            <category term="fiverr"/>
 
-        <updated>2023-01-22T20:06:53+01:00</updated>
+        <updated>2023-01-22T20:14:24+01:00</updated>
             <summary>
                 <![CDATA[
                     12 Myths that new sellers should know the truth about If you are a new seller on Fiverr, chances are that you have heard many tips and tricks about how to rank your gig, how to increase impressions and clicks. If you struggle to get&hellip;
