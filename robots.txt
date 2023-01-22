@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pfinnn.github.io/fee-calculator-blog/sitemap.xml
+Sitemap: https://blog.fee-calculator.com/sitemap.xml
