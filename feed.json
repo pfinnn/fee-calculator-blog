@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fee Calculator",
+    "description": "",
+    "home_page_url": "https://pfinnn.github.io/fee-calculator-blog",
+    "feed_url": "https://pfinnn.github.io/fee-calculator-blog/feed.json",
+    "user_comment": "",
+    "icon": "https://pfinnn.github.io/fee-calculator-blog/media/website/FiverrInsidersLogo.png",
+    "author": {
+        "name": "Fee Calculator"
+    },
+    "items": [
+        {
+            "id": "https://pfinnn.github.io/fee-calculator-blog/test-2.html",
+            "url": "https://pfinnn.github.io/fee-calculator-blog/test-2.html",
+            "title": "Test 2",
+            "summary": "Testing pagination wefdsffdfg",
+            "content_html": "<h1>Testing pagination</h1>\n<p> </p>\n<p>wefdsffdfg</p>\n<p> </p>",
+            "author": {
+                "name": "Fee Calculator"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-22T17:00:00+01:00",
+            "date_modified": "2023-01-22T17:00:00+01:00"
+        },
+        {
+            "id": "https://pfinnn.github.io/fee-calculator-blog/test.html",
+            "url": "https://pfinnn.github.io/fee-calculator-blog/test.html",
+            "title": "Test",
+            "summary": "Test test Test this is a test cool",
+            "content_html": "<h1>Test test Test</h1>\n<p>this is a test</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://pfinnn.github.io/fee-calculator-blog/media/posts/1/fiverr_myth_debunked.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"100vw\" srcset=\"https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-xs.jpg 300w ,https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-sm.jpg 480w ,https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-md.jpg 768w ,https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-lg.jpg 1024w ,https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-xl.jpg 1360w ,https://pfinnn.github.io/fee-calculator-blog/media/posts/1/responsive/fiverr_myth_debunked-2xl.jpg 1600w\"></figure>\n<h2>Test</h2>\n<p>cool</p>",
+            "author": {
+                "name": "Fee Calculator"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-22T16:52:51+01:00",
+            "date_modified": "2023-01-22T16:53:35+01:00"
+        }
+    ]
+}
