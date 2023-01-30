@@ -3,7 +3,7 @@
     <title>Fee Calculator</title>
     <link href="https://blog.fee-calculator.com/feed.xml" rel="self" />
     <link href="https://blog.fee-calculator.com" />
-    <updated>2023-01-30T17:47:23+01:00</updated>
+    <updated>2023-01-30T17:49:44+01:00</updated>
     <author>
         <name>Finn</name>
     </author>
@@ -145,7 +145,7 @@
             <category term="fiverr gig"/>
             <category term="fiverr"/>
 
-        <updated>2023-01-30T17:47:23+01:00</updated>
+        <updated>2023-01-30T17:49:44+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.fee-calculator.com/media/posts/5/pexels-ds-stories-6991341.jpg" alt="" />
@@ -159,22 +159,14 @@
 <h2>AI Services</h2>
 <p>With the new rise of AI technology, you can now offer AI services on Fiverr too. The new categories include:</p>
 <ul>
-<li>AI Artists
+<li style="list-style-type: none;">
 <ul>
 <li>Midjourney Artists</li>
 <li>DALL-E Artists</li>
 <li>Stable Diffusion Artists</li>
-</ul>
-</li>
-<li>AI Applications
-<ul>
 <li>ChatGPT Applications</li>
 <li>AI Web Applications</li>
 <li>AI Chatbots</li>
-</ul>
-</li>
-<li>Other AI Services
-<ul>
 <li>AI Models</li>
 <li>AI Music Videos</li>
 <li>AI Content Editing</li>
