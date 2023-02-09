@@ -3,12 +3,33 @@
     <title>Fee Calculator</title>
     <link href="https://blog.fee-calculator.com/feed.xml" rel="self" />
     <link href="https://blog.fee-calculator.com" />
-    <updated>2023-02-07T18:59:08+01:00</updated>
+    <updated>2023-02-09T14:30:05+01:00</updated>
     <author>
         <name>Finn</name>
     </author>
     <id>https://blog.fee-calculator.com</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Finn</name>
+        </author>
+        <link href="https://blog.fee-calculator.com/test/"/>
+        <id>https://blog.fee-calculator.com/test/</id>
+
+        <updated>2023-02-08T02:12:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing Iframe display on Publii Blog websites
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testing Iframe display on Publii Blog websites</p>
+<figure class="image-rounded"><a href="https://go.fiverr.com/visit/?bta=315621&amp;brand=fiverrhybrid" rel="noopener"><img loading="lazy"  src="https://blog.fee-calculator.com/media/posts/8/Screenshot-2023-02-08-015610.jpg" sizes="100vw" srcset="https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-xs.jpg 300w ,https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-sm.jpg 480w ,https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-md.jpg 768w ,https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-lg.jpg 1024w ,https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-xl.jpg 1360w ,https://blog.fee-calculator.com/media/posts/8/responsive/Screenshot-2023-02-08-015610-2xl.jpg 1600w"></figure> </a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to promote your Fiverr gigs on Discord - The Ultimate Guide</title>
         <author>
@@ -398,7 +419,7 @@
             <category term="ai technology"/>
             <category term="2023"/>
 
-        <updated>2023-02-05T03:07:19+01:00</updated>
+        <updated>2023-02-09T14:30:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.fee-calculator.com/media/posts/6/header.jpg" alt="" />
@@ -408,7 +429,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://blog.fee-calculator.com/media/posts/6/header.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Fiverr now offers AI services to enhance your business! With new categories for AI artists and applications, you can find high-quality and cheap artworks, articles, and more. Utilize the power of ChatGPT, an advanced language model by OpenAI, for article writing, customer support, data analysis, chatbots, and content generation. Also, try out Midjourney &amp; Dall-E for AI-image generation and stunning artworks. Get ahead of the competition with AI solutions on Fiverr!</p>
+                <p><a href="https://go.fiverr.com/visit/?bta=315621&amp;brand=fiverrcpa">Fiverr</a> now offers AI services to enhance your business! With new categories for AI artists and applications, you can find high-quality and cheap artworks, articles, and more. Utilize the power of <a href="https://chat.openai.com" target="_blank" rel="noopener noreferrer">ChatGPT</a>, an advanced language model by <a href="https://openai.com/about/">OpenAI</a>, for article writing, customer support, data analysis, chatbots, and content generation. Also, try out Midjourney &amp; Dall-E for AI-image generation and stunning artworks. Get ahead of the competition with AI solutions on <a href="#INTERNAL_LINK#/post/null">Fiverr</a><a href="https://go.fiverr.com/visit/?bta=315621&amp;brand=fiverrcpa" target="_blank" rel="noopener noreferrer"></a>!</p>
 <figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.fee-calculator.com/media/posts/6/ai-services-on-fiverr.jpg" alt="" width="3020" height="1580" sizes="100vw" srcset="https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-xs.jpg 300w ,https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-sm.jpg 480w ,https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-md.jpg 768w ,https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-lg.jpg 1024w ,https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-xl.jpg 1360w ,https://blog.fee-calculator.com/media/posts/6/responsive/ai-services-on-fiverr-2xl.jpg 1600w"></figure>
 <figcaption >New AI Services on Fiverr</figcaption>
 </figure>
